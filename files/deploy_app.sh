@@ -14,7 +14,8 @@ cat << EOM > /var/www/html/index.html
   Welcome to ${PREFIX}'s app. This is a custom message
   <!-- END -->
 
-  </div>
+  </div>history
+  
   </body>
 </html>
 EOM
